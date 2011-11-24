@@ -9,6 +9,13 @@
     <?php include_javascripts() ?>
   </head>
   <body>
+
+<?php use_helper('Crosslinks') ?>
+<p>
+    <a href="<?php echo link_to_backend('homepage') ?>">go to backend</a>
+</p>
+
+
     <?php echo $sf_content ?>
   </body>
 </html>

@@ -13,10 +13,14 @@ dev:
     cache:                  false
     no_script_name:         true
     etag:                   false
+    enabled_modules: [ default, sfGuardAuth, sfGuardRegister, sfGuardForgotPassword ]
+
 
 staging:
   .settings:
     no_script_name:         true
+    enabled_modules: [ default, sfGuardAuth, sfGuardRegister, sfGuardForgotPassword ]
+
 
 test:
   .settings:
@@ -37,3 +41,11 @@ all:
 
     # Enable the database manager
     use_database:           true
+
+
+    login_module:           sfGuardAuth
+    login_action:           signin
+
+    secure_module:          sfGuardAuth
+    secure_action:          secure
+
