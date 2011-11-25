@@ -3,3 +3,6 @@
 
 index:
   is_secure: false
+
+error500:
+  is_secure: false

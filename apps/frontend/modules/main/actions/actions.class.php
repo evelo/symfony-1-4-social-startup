@@ -18,4 +18,14 @@ class mainActions extends sfActions
   public function executeIndex(sfWebRequest $request)
   {
   }
+
+ /**
+  * Executes error 500
+  *
+  * @param sfRequest $request A request object
+  */
+  public function executeError500(sfWebRequest $request)
+  {
+      throw new Exception('Lorem ipsum...');
+  }
 }
