@@ -21,3 +21,6 @@ symfony doctrine:build --all --no-confirmation
 symfony doctrine:data-load data/fixtures/miasta.yml
 symfony doctrine:data-load data/fixtures/info.yml
 
+
+
+symfony doctrine:generate-module --with-show frontend sample Sample

@@ -23,6 +23,7 @@
     <li><a href="<?php echo url_for('main/lorem/ipsum') ?>">error 404</a></li>
     <li><a href="<?php echo url_for('main/error500') ?>">error 500</a></li>
     <li><a href="<?php echo url_for('main/index') ?>">index</a></li>
+    <li><a href="<?php echo url_for('sample/index') ?>">sample</a></li>
 </ul>
 
 

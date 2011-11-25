@@ -11,5 +11,7 @@ class ProjectConfiguration extends sfProjectConfiguration
     $this->enablePlugins('sfDoctrineGuardPlugin');
     $this->enablePlugins('sfMessageWithLayoutPlugin');
     $this->enablePlugins('sfSslRequirementPlugin');
+    $this->enablePlugins('sfSslRequirementPlugin');
+    $this->enablePlugins('sfDoctrineActAsSignablePlugin');
   }
 }
