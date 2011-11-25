@@ -6,3 +6,6 @@ index:
 
 error500:
   is_secure: false
+
+error404:
+  is_secure: false

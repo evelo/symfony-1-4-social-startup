@@ -13,7 +13,7 @@ dev:
     cache:                  false
     no_script_name:         true
     etag:                   false
-    enabled_modules: [ default, sfGuardAuth, sfGuardRegister, sfGuardForgotPassword ]
+    enabled_modules: [ default, sfGuardAuth, sfGuardRegister, sfGuardForgotPassword, message ]
 
 
 staging:
@@ -51,4 +51,8 @@ all:
 
 
     check_lock:             true
+
+
+    error_404_module: main
+    error_404_action: error404
 

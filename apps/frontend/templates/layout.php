@@ -20,7 +20,7 @@
     <li><a href="<?php echo url_for('sfGuardAuth/signin') ?>">login</a></li>
     <li><a href="<?php echo url_for('sfGuardAuth/signout') ?>">logout</a></li>
     <li><a href="<?php echo url_for('main/show') ?>">show</a></li>
-    <li><a href="<?php echo url_for('main/error404') ?>">error 404</a></li>
+    <li><a href="<?php echo url_for('main/lorem/ipsum') ?>">error 404</a></li>
     <li><a href="<?php echo url_for('main/error500') ?>">error 500</a></li>
     <li><a href="<?php echo url_for('main/index') ?>">index</a></li>
 </ul>
