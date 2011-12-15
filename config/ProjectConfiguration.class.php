@@ -14,5 +14,14 @@ class ProjectConfiguration extends sfProjectConfiguration
     $this->enablePlugins('sfSslRequirementPlugin');
     $this->enablePlugins('sfDoctrineActAsSignablePlugin');
     $this->enablePlugins('sfFtpPlugin');
+    
+    
+//   brak obsługi i18n
+//
+//
+//    sfValidatorBase::setDefaultMessage('required', 'ProjectConfiguration Class::: Pole wymagane.');
+//    sfValidatorBase::setDefaultMessage('invalid', 'ProjectConfiguration Class::: Błąd');
+    
+    
   }
 }

@@ -1,33 +1,146 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd" >
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file original="global" source-language="en" datatype="plaintext">
+  <file source-language="EN" target-language="fr" datatype="plaintext" original="messages" date="2011-12-14T13:16:29Z" product-name="messages">
     <header/>
     <body>
-      <trans-unit>
-        <source>Username</source>
-        <target>Nom d'utilisateur</target>
+      <trans-unit id="1">
+        <source>Oops! The page you asked for is secure and you do not have proper credentials.</source>
+        <target>I18N FILE:::FR:::  Oops! The page you asked for is secure and you do not have proper credentials.</target>
       </trans-unit>
-      <trans-unit>
-        <source>Password</source>
-        <target>Mot de passe</target>
+      <trans-unit id="2">
+        <source>Login below to gain access</source>
+        <target>I18N FILE:::FR:::  Login below to gain access</target>
       </trans-unit>
-      <trans-unit>
-        <source>Remember</source>
-        <target>Se rappeler</target>
-      </trans-unit>
-      <trans-unit>
+      <trans-unit id="3">
         <source>Signin</source>
-        <target>Se connecter</target>
+        <target>I18N FILE:::FR:::  Signin</target>
       </trans-unit>
-      <trans-unit>
+      <trans-unit id="4">
+        <source>Username</source>
+        <target>I18N FILE:::FR:::  Username</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Password</source>
+        <target>I18N FILE:::FR:::  Password</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Remember</source>
+        <target>I18N FILE:::FR:::  Remember</target>
+      </trans-unit>
+      <trans-unit id="7">
         <source>Forgot your password?</source>
-        <target>Mot de passe oublié ?</target>
+        <target>I18N FILE:::FR:::  Forgot your password?</target>
       </trans-unit>
-      <trans-unit>
-        <source>You don't have the required permission to access this page.</source>
-        <target>Vous n'avez pas les permissions nécessaires pour accéder à cette page.</target>
+      <trans-unit id="8">
+        <source>Want to register?</source>
+        <target>I18N FILE:::FR:::  Want to register?</target>
       </trans-unit>
+      <trans-unit id="9">
+        <source>Forgot Password Request for %username%</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Check your e-mail! You should receive something shortly!</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invalid e-mail address!</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>New Password for %username%</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Password updated successfully!</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Hello %name%</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Enter your new password in the form below.</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Password again</source>
+        <target>I18N FILE:::FR:::  Password again</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Change</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Do not worry, we can help you get back in to your account safely!</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Fill out the form below to request an e-mail with information on how to reset your password.</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Email</source>
+        <target>I18N FILE:::FR:::  Email</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Request</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Hi %first_name%</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Below you will find your username and new password:</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>This e-mail is being sent because you requested information on how to reset your password.</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>You can change your password by clicking the below link which is only valid for 24 hours:</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Click to change password</source>
+        <target>I18N FILE:::FR:::  </target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Register</source>
+        <target>I18N FILE:::FR:::  Register</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>First name</source>
+        <target>I18N FILE:::FR:::  First name</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Last name</source>
+        <target>I18N FILE:::FR:::  Last name</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The username and/or password is invalid.</source>
+        <target>I18N FILE:::FR:::  The username and/or password is invalid.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The two passwords must be the same.</source>
+        <target>I18N FILE:::FR:::  The two passwords must be the same.</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Required</source>
+        <target>I18N FILE:::FR:::  Required</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>An object with the same "username" already exist.</source>
+        <target>I18N FILE:::FR:::  An object with the same "username" already exist.</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>An object with the same "email" already exist.</source>
+        <target>I18N FILE:::FR:::  An object with the same "email" already exist.</target>
+      </trans-unit>
+
     </body>
   </file>
 </xliff>

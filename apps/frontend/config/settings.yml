@@ -56,3 +56,13 @@ all:
     error_404_module: main
     error_404_action: error404
 
+
+    i18n:                   true
+#    default_culture:        pl_PL
+    default_culture:        fr
+
+    standard_helpers:       [Partial, Cache, I18N]
+
+
+
+

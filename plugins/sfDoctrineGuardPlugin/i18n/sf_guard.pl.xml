@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd" >
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <header/>
+    <body>
+
+      <!-- /guard/signin -->
+      <!-- sfDoctrineGuardPlugin/modules/sfGuardAuth -->
+      <trans-unit>
+        <source>Signin</source>
+        <target>I18N FILE::: Zaloguj</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>I18N FILE::: Zapomniałeś hasło?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Want to register?</source>
+        <target>I18N FILE::: Chcesz się zarejestrować?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username</source>
+        <target>I18N FILE::: Nazwa konta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>I18N FILE::: Hasło</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember</source>
+        <target>I18N FILE::: Zapamiętaj</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or E-Mail</source>
+        <target>I18N FILE::: Nazwa konta</target>
+      </trans-unit>
+
+
+
+      <!-- /guard/secure -->
+      <!-- sfDoctrineGuardPlugin/modules/sfGuardAuth -->
+      <trans-unit>
+        <source>Oops! The page you asked for is secure and you do not have proper credentials.</source>
+        <target>I18N FILE::: Oops! Nie masz uprawnień do oglądania strony!</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Login below to gain access</source>
+        <target>I18N FILE::: W celu uzyskania dostępu zaloguj się!</target>
+      </trans-unit>
+
+
+
+
+
+      <!-- /guard/forgot_password -->
+      <!-- sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/ -->
+      <trans-unit>
+        <source>Do not worry, we can help you get back in to your account safely!</source>
+        <target>I18N FILE::: Dzięki tej stronie możesz odzyskać dostęp do serwisu.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Fill out the form below to request an e-mail with information on how to reset your password.</source>
+        <target>I18N FILE::: Podaj swój adres e-mail. Po wypełnieniu formularza otrzymasz e-mail ze szczegółową instrukcją odzyskiwania hasła.</target>
+      </trans-unit>
+      <!-- etykieta przycisku formularza /guard/forgot_password   -->
+      <trans-unit>
+        <source>Request</source>
+        <target>I18N FILE::: Wyślij</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Click to change password</source>
+        <target>I18N FILE::: W celu zmiany hasła odwiedź ten link</target>
+      </trans-unit>
+
+
+
+
+
+
+      <!-- /guard/register -->
+      <!-- sfDoctrineGuardPlugin/modules/sfGuardRegister/ -->
+      <trans-unit>
+        <source>Email</source>
+        <target>I18N FILE::: Adres email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First name</source>
+        <target>I18N FILE::: Imię</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last name</source>
+        <target>I18N FILE::: Nazwisko</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password again</source>
+        <target>I18N FILE::: Powtórz hasło</target>
+      </trans-unit>
+
+
+
+
+      <trans-unit>
+        <source>Required.</source>
+        <target>I18N FILE::: Pole wymagane</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>The two passwords must be the same.</source>
+        <target>I18N FILE::: Podane hasła muszą być identyczne.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Enter your new password in the form below.</source>
+        <target>I18N FILE::: Wprowadź nowe hasło.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>This e-mail is being sent because you requested information on how to reset your password.</source>
+        <target>I18N FILE::: Otrzymałeś ten list w odpowiedzi na prośbę o przypomnienie hasła w serwisie http://example.net.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>You can change your password by clicking the below link which is only valid for 24 hours:</source>
+        <target>I18N FILE::: Hasło możesz zmienić w ciągu 24 godzin od momentu wysłania tego listu.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Forgot Password Request for %username%</source>
+        <target>I18N FILE::: Przywracanie hasła dla konta %username%</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Hi %first_name%</source>
+        <target>I18N FILE::: Witaj %first_name%</target>
+      </trans-unit>
+
+
+      <trans-unit>
+        <source>Hello %name%</source>
+        <target>I18N FILE::: Witaj %name%</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Below you will find your username and new password:</source>
+        <target>I18N FILE::: Oto twoje nowe hasło:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>New Password for %username%</source>
+        <target>I18N FILE::: Nowe hasło dla konta %username%</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>The username and/or password is invalid.</source>
+        <target>I18N FILE::: Niepoprana nazwa konta lub hasło.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Change</source>
+        <target>I18N FILE::: Zmień hasło</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Register</source>
+        <target>I18N FILE::: Zarejestruj</target>
+      </trans-unit>
+
+
+      <trans-unit>
+        <source>An object with the same "username" already exist.</source>
+        <target>I18N FILE::: Konto o podanej nazwie już istnieje!</target>
+      </trans-unit>
+
+
+      <trans-unit>
+        <source>An object with the same "email" already exist.</source>
+        <target>I18N FILE::: Konto o podanym adresie email już istnieje!</target>
+      </trans-unit>
+
+
+      <trans-unit>
+        <source>Check your e-mail! You should receive something shortly!</source>
+        <target>I18N FILE::: Sprawdź pocztę! Niebawem powinieneś otrzymać email zawierający informacje w jaki sposób możesz odzyskać hasło!</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Invalid e-mail address!</source>
+        <target>I18N FILE::: Błędny adres email!</target>
+      </trans-unit>
+
+
+      <trans-unit>
+        <source>Password updated successfully!</source>
+        <target>I18N FILE::: Hasło zostało zmienione!</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Invalid</source>
+        <target>I18N FILE::: Błąd!</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Required</source>
+        <target>I18N FILE::: Pole wymagane!</target>
+      </trans-unit>
+
+
+    </body>
+  </file>
+</xliff>
